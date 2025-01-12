@@ -3,45 +3,45 @@
         {
             "id": "1",
             "name": "The Iron Dragon",
-            "pic": "https://github.io/JakeA105/mobass2/theirondragon.png",
-            "maxspeed": "85"
+            "pic": "https://jakea105.github.io/theirondragon.png",
+            "max speed": "85"
         },
         {
             "id": "2",
             "name":"Solar Flare Spin",
-            "pic":"https://github.io/JakeA105/mobass2/solarflarespin.png",
-            "maxspeed": "50"
+            "pic":"https://jakea105.github.io/solarflarespin.png",
+            "max speed": "50"
         },
         {
             "id":"3",
             "name":"Neon Night Racer",
-            "pic":"https://github.io/JakeA105/mobass2/neonnightracer.png",
-            "maxspeed":"65"
+            "pic":"https://jakea105.github.io/neonnightracer.png",
+            "max speed":"65"
         },
         {
             "id":"4",
             "name":"Bertie's Bizarre Journey",
-            "pic":"https://github.io/JakeA105/mobass2/bertiesbizarrejourney.png",
-            "maxspeed":"90"
+            "pic":"https://jakea105.github.io/bertiesbizarrejourney.png",
+            "max speed":"90"
             
         },
         {
             "id":"5",
             "name":"Thunder Clap",
-            "pic":"https://github.io/JakeA105/mobass2/thunderclap.png",
-            "maxspeed":"100"
+            "pic":"https://jakea105.github.io/thunderclap.png",
+            "max speed":"100"
         },
         {
             "id":"6",
             "name":"Tornado Tunnel",
-            "pic":"https://github.io/JakeA105/mobass2/tornadotunnel.png",
-            "maxspeed":"75"
+            "pic":"https://jakea105.github.io/tornadotunnel.png",
+            "max speed":"75"
         },
         {
             "id":"7",
             "name":"Jungle Fury Dash",
-            "pic":"https://github.io/JakeA105/mobass2/junglefurydash.png",
-            "maxspeed":"80"
+            "pic":"https://jakea105.github.io/junglefurydash.png",
+            "max speed":"80"
         }
 
     ],
@@ -50,30 +50,30 @@
         {
             "id":"1",
             "name":"Bertie's Bakery",
-            "pic":"https://github.io/JakeA105/mobass2/bertiesbakery.png",
+            "pic":"https://jakea105.github.io/bertiesbakery.png",
             "menu":[
                 {
                     "itemno":"1",
                     "itemname":"Croisant",
-                    "pic":"https://github.io/JakeA105/mobass2/croisant.png",
+                    "pic":"https://jakea105.github.io/croisant.png",
                     "price":"£3.99"
                 },
                 {
                     "itemno":"2",
                     "itemname":"Berties Bagel",
-                    "pic":"https://github.io/JakeA105/mobass2/bertiesbagel",
+                    "pic":"https://jakea105.github.io/bertiesbagel",
                     "price":"£5.99"
                 },
                 {
                     "itemno":"3",
                     "itemname":"Sausage Roll",
-                    "pic":"https://github.io/JakeA105/mobass2/sausageroll",
+                    "pic":"https://jakea105.github.io/sausageroll",
                     "price":"£2.85"
                 },
                 {
                     "itemno":"4",
                     "itemname":"Pain Au Chocolait",
-                    "pic":"https://github.io/JakeA105/mobass2/painauchocolait",
+                    "pic":"https://jakea105.github.io/painauchocolait",
                     "price":"£4.50"
                 }
             ]
@@ -81,30 +81,30 @@
         {
             "id":"2",
             "name":"Dragon Fire Bar and Grill",
-            "pic":"https://github.io/JakeA105/mobass2/dragonfirebarandgrill.png",
+            "pic":"https://jakea105.github.io/dragonfirebarandgrill.png",
             "menu":[
                 {
                     "itemno":"1",
                     "itemname":"Steak and Chips",
-                    "pic":"https://github.io/JakeA105/mobass2/steakandchips.png",
+                    "pic":"https://jakea105.github.io/steakandchips.png",
                     "price":"£27.99"
                 },
                 {
                     "itemno":"2",
                     "itemname":"Burger and Chips",
-                    "pic":"https://github.io/JakeA105/mobass2/burgerandchips.png",
+                    "pic":"https://jakea105.github.io/burgerandchips.png",
                     "price":"£17.99"
                 },
                 {
                     "itemno":"3",
                     "itemname":"Hot Dog",
-                    "pic":"https://github.io/JakeA105/mobass2/hotdog.png",
+                    "pic":"https://jakea105.github.io/hotdog.png",
                     "price":"£9.99"
                 },
                 {
                     "itemno":"4",
                     "itemname":"Chicken Nuggets and Chips",
-                    "pic":"https://github.io/JakeA105/mobass2/chickennuggetsandchips.png",
+                    "pic":"https://jakea105.github.io/chickennuggetsandchips.png",
                     "price":"£10.99"
                 }
             ]
@@ -112,30 +112,30 @@
         {
             "id":"3",
             "name":"Firestone Pizzeria",
-            "pic":"https://github.io/JakeA105/mobass2/firestonepizzeria.png",
+            "pic":"https://jakea105.github.io/firestonepizzeria.png",
             "menu":[
                 {
                     "itemno":"1",
                     "itemname":"Margherita Pizza",
-                    "pic":"https://github.io/JakeA105/mobass2/margherita.png",
+                    "pic":"https://jakea105.github.io/margherita.png",
                     "price":"£9.99"
                 },
                 {
                     "itemno":"2",
                     "itemname":"Pepperoni Pizza",
-                    "pic":"https://github.io/JakeA105/mobass2/pepperonipizza.png",
+                    "pic":"https://jakea105.github.io/pepperonipizza.png",
                     "price":"£10.99"
                 },
                 {
                     "itemno":"3",
                     "itemname":"Hawaiian Pizza",
-                    "pic":"https://github.io/JakeA105/mobass2/hawaiianpizza.png",
+                    "pic":"https://jakea105.github.io/hawaiianpizza.png",
                     "price":"£11.99"
                 },
                 {
-                    "itemno":"4",   
+                    "itemno":"4",
                     "itemname":"BBQ Chicken Pizza",
-                    "pic":"https://github.io/JakeA105/mobass2/bbqchickenpizza.png",
+                    "pic":"https://jakea105.github.io/bbqchickenpizza.png",
                     "price":"£11.99"
                 }
             ]
