@@ -1,0 +1,145 @@
+{
+    "rides" : [
+        {
+            "id": "1",
+            "ridename": "The Iron Dragon",
+            "ridepic": "https://jakea105.github.io/theirondragon.png",
+            "max speed": "85"
+        },
+        {
+            "id": "2",
+            "ridename":"Solar Flare Spin",
+            "ridepic":"https://jakea105.github.io/solarflarespin.png",
+            "max speed": "50"
+        },
+        {
+            "id":"3",
+            "ridename":"Neon Night Racer",
+            "ridepic":"https://jakea105.github.io/neonnightracer.png",
+            "max speed":"65"
+        },
+        {
+            "id":"4",
+            "ridename":"Bertie's Bizarre Journey",
+            "ridepic":"https://jakea105.github.io/bertiesbizarrejourney.png",
+            "max speed":"90"
+            
+        },
+        {
+            "id":"5",
+            "ridename":"Thunder Clap",
+            "ridepic":"https://jakea105.github.io/thunderclap.png",
+            "max speed":"100"
+        },
+        {
+            "id":"6",
+            "ridename":"Tornado Tunnel",
+            "ridepic":"https://jakea105.github.io/tornadotunnel.png",
+            "max speed":"75"
+        },
+        {
+            "id":"7",
+            "ridename":"Jungle Fury Dash",
+            "ridepic":"https://jakea105.github.io/junglefurydash.png",
+            "max speed":"80"
+        }
+
+    ],
+
+    "restaurants":[
+        {
+            "id":"1",
+            "restaurantname":"Bertie's Bakery",
+            "restaurantpic":"https://jakea105.github.io/bertiesbakery.png"
+        },
+        {
+            "id":"2",
+            "restaurantname":"Dragon Fire Bar and Grill",
+            "restaurantpic":"https://jakea105.github.io/dragonfirebarandgrill.png"
+        },
+        {
+            "id":"3",
+            "restaurantname":"Firestone Pizzeria",
+            "restaurantpic":"https://jakea105.github.io/firestonepizzeria.png"
+        }
+        
+        
+        
+    ],
+
+    "menus":[
+        {
+            "id":"1",
+            "itemname":"Croissant",
+            "itempic":"https://jakea105.github.io/croissant.png",
+            "price":"£3.99"
+        },
+        {
+            "id":"2",
+            "itemname":"Berties Bagel",
+            "itempic":"https://jakea105.github.io/bertiesbagel.jpg",
+            "price":"£5.99"
+        },
+        {
+            "id":"3",
+            "itemname":"Sausage Roll",
+            "itempic":"https://jakea105.github.io/sausageroll.jpg",
+            "price":"£2.85"
+        },
+        {
+            "id":"4",
+            "itemname":"Pain Au Chocolait",
+            "itempic":"https://jakea105.github.io/painauchocolait.jpg",
+            "price":"£4.50"
+        },
+        {
+            "itemno":"5",
+            "itemname":"Steak and Chips",
+            "itempic":"https://jakea105.github.io/steakandchips.jpg",
+            "price":"£27.99"
+        },
+        {
+            "itemno":"6",
+            "itemname":"Burger and Chips",
+            "itempic":"https://jakea105.github.io/burgerandchips.jpg",
+            "price":"£17.99"
+        },
+        {
+            "itemno":"7",
+            "itemname":"Hot Dog",
+            "itempic":"https://jakea105.github.io/hotdog.jpg",
+            "price":"£9.99"
+        },
+        {
+            "itemno":"8",
+            "itemname":"Chicken Nuggets and Chips",
+            "itempic":"https://jakea105.github.io/chickennuggetsandchips.jpg",
+            "price":"£10.99"
+        },
+        {
+            "itemno":"9",
+            "itemname":"Margherita Pizza",
+            "itempic":"https://jakea105.github.io/margherita.jpg",
+            "price":"£9.99"
+        },
+        {
+            "itemno":"10",
+            "itemname":"Pepperoni Pizza",
+            "itempic":"https://jakea105.github.io/pepperoni.jpg",
+            "price":"£10.99"
+        },
+        {
+            "itemno":"11",
+            "itemname":"Hawaiian Pizza",
+            "itempic":"https://jakea105.github.io/hawaiian.jpg",
+            "price":"£11.99"
+        },
+        {
+            "itemno":"12",
+            "itemname":"BBQ Chicken Pizza",
+            "itempic":"https://jakea105.github.io/bbqchicken.jpg",
+            "price":"£11.99"
+        }
+
+    ]
+}
