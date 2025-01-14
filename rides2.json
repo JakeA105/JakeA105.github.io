@@ -69,73 +69,73 @@
 
     "menus":[
         {
-            "itemno":"1",
+            "itemno":1,
             "itemname":"Croissant",
             "itempic":"https://jakea105.github.io/croissant.png",
             "price":"£3.99"
         },
         {
-            "itemno":"2",
+            "itemno":2,
             "itemname":"Berties Bagel",
             "itempic":"https://jakea105.github.io/bertiesbagel.jpg",
             "price":"£5.99"
         },
         {
-            "itemno":"3",
+            "itemno":3,
             "itemname":"Sausage Roll",
             "itempic":"https://jakea105.github.io/sausageroll.jpg",
             "price":"£2.85"
         },
         {
-            "itemno":"4",
+            "itemno":4,
             "itemname":"Pain Au Chocolait",
             "itempic":"https://jakea105.github.io/painauchocolait.jpg",
             "price":"£4.50"
         },
         {
-            "itemno":"5",
+            "itemno":5,
             "itemname":"Steak and Chips",
             "itempic":"https://jakea105.github.io/steakandchips.jpg",
             "price":"£27.99"
         },
         {
-            "itemno":"6",
+            "itemno":6,
             "itemname":"Burger and Chips",
             "itempic":"https://jakea105.github.io/burgerandchips.jpg",
             "price":"£17.99"
         },
         {
-            "itemno":"7",
+            "itemno":7,
             "itemname":"Hot Dog",
             "itempic":"https://jakea105.github.io/hotdog.jpg",
             "price":"£9.99"
         },
         {
-            "itemno":"8",
+            "itemno":8,
             "itemname":"Chicken Nuggets and Chips",
             "itempic":"https://jakea105.github.io/chickennuggetsandchips.jpg",
             "price":"£10.99"
         },
         {
-            "itemno":"9",
+            "itemno":9,
             "itemname":"Margherita Pizza",
             "itempic":"https://jakea105.github.io/margherita.jpg",
             "price":"£9.99"
         },
         {
-            "itemno":"10",
+            "itemno":10,
             "itemname":"Pepperoni Pizza",
             "itempic":"https://jakea105.github.io/pepperoni.jpg",
             "price":"£10.99"
         },
         {
-            "itemno":"11",
+            "itemno":11,
             "itemname":"Hawaiian Pizza",
             "itempic":"https://jakea105.github.io/hawaiian.jpg",
             "price":"£11.99"
         },
         {
-            "itemno":"12",
+            "itemno":12,
             "itemname":"BBQ Chicken Pizza",
             "itempic":"https://jakea105.github.io/bbqchicken.jpg",
             "price":"£11.99"
