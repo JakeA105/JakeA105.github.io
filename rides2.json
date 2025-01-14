@@ -48,17 +48,17 @@
 
     "restaurants":[
         {
-            "id":"1",
+            "id":1,
             "restaurantname":"Bertie's Bakery",
             "restaurantpic":"https://jakea105.github.io/bertiesbakery.png"
         },
         {
-            "id":"2",
+            "id":2,
             "restaurantname":"Dragon Fire Bar and Grill",
             "restaurantpic":"https://jakea105.github.io/dragonfirebarandgrill.png"
         },
         {
-            "id":"3",
+            "id":3,
             "restaurantname":"Firestone Pizzeria",
             "restaurantpic":"https://jakea105.github.io/firestonepizzeria.png"
         }
