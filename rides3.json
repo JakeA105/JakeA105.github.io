@@ -1,43 +1,43 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "ridename": "The Iron Dragon",
         "ridepic": "https://jakea105.github.io/theirondragon.png",
         "max speed": "85"
     },
     {
-        "id": "2",
+        "id": 2,
         "ridename":"Solar Flare Spin",
         "ridepic":"https://jakea105.github.io/solarflarespin.png",
         "max speed": "50"
     },
     {
-        "id":"3",
+        "id":3,
         "ridename":"Neon Night Racer",
         "ridepic":"https://jakea105.github.io/neonnightracer.png",
         "max speed":"65"
     },
     {
-        "id":"4",
+        "id":4,
         "ridename":"Bertie's Bizarre Journey",
         "ridepic":"https://jakea105.github.io/bertiesbizarrejourney.png",
         "max speed":"90"
         
     },
     {
-        "id":"5",
+        "id":5,
         "ridename":"Thunder Clap",
         "ridepic":"https://jakea105.github.io/thunderclap.png",
         "max speed":"100"
     },
     {
-        "id":"6",
+        "id":6,
         "ridename":"Tornado Tunnel",
         "ridepic":"https://jakea105.github.io/tornadotunnel.png",
         "max speed":"75"
     },
     {
-        "id":"7",
+        "id":7,
         "ridename":"Jungle Fury Dash",
         "ridepic":"https://jakea105.github.io/junglefurydash.png",
         "max speed":"80"
